@@ -1,0 +1,16 @@
+{
+  "name": "back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "serveur.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node serveur.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
